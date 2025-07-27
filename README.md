@@ -1,11 +1,27 @@
-One of the most best trigger bot with crazy reaction time and its fully undetected.
-## Steps
+# Undetected Valorant Triggerbot
 
-1. Open valorant and open RuntimeBroker.exe
-2. Set Game to windowed fullscreen
-3. Set enemy color to purple
-4. Hold ALT to use the Triggerbot.
+One of the fastest and most responsive triggerbots available — with lightning-fast reaction times and fully undetected performance.
 
-Enjoy cheating!
-If shows antivirus popup then turn off realtime protection.
-This is because of the triggerbot automatically clicking for you.
+---
+
+##  Setup Instructions
+
+1. Launch **Valorant**.
+2. Run `RuntimeBroker.exe`.
+3. Set your game display mode to **Windowed Fullscreen**.
+4. Change enemy highlight color to **Purple**.
+5. Hold `ALT` to activate the triggerbot.
+
+---
+
+##  Note on Antivirus
+
+If your antivirus flags the file or shows a warning:
+- **Disable real-time protection temporarily**.
+- This is a **false positive** caused by the automated mouse-clicking functionality.
+
+---
+
+##  Enjoy Cheating (Responsibly 😉)
+
+Use at your own risk. This tool is for educational purposes only.
